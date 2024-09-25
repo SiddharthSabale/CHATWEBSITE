@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "66dde82d24da5456a2cd6e4c"
+  },
+  "name": "SSSS-SSSS",
+  "groupChat": false,
+  "members": [
+    {
+      "$oid": "66dde7e024da5456a2cd6e37"
+    },
+    {
+      "$oid": "66dde7e024da5456a2cd6e37"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-09-08T18:08:45.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:08:45.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66dde90124da5456a2cd6e90"
+  },
+  "name": "123s-sidd",
+  "groupChat": false,
+  "members": [
+    {
+      "$oid": "66dde8ed24da5456a2cd6e7d"
+    },
+    {
+      "$oid": "66dde86c24da5456a2cd6e5f"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-09-08T18:12:17.017Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:12:17.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ddee014a47e1c24d05e12b"
+  },
+  "name": "difff-difff",
+  "groupChat": false,
+  "members": [
+    {
+      "$oid": "66ddede54a47e1c24d05e107"
+    },
+    {
+      "$oid": "66ddede54a47e1c24d05e107"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-09-08T18:33:37.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:33:37.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ddf03b7745820def48ae6b"
+  },
+  "name": "difff-123s",
+  "groupChat": false,
+  "members": [
+    {
+      "$oid": "66ddede54a47e1c24d05e107"
+    },
+    {
+      "$oid": "66dde8ed24da5456a2cd6e7d"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-09-08T18:43:07.232Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:43:07.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ddf08c7745820def48aeac"
+  },
+  "name": "123s-sssss",
+  "groupChat": false,
+  "members": [
+    {
+      "$oid": "66dde8ed24da5456a2cd6e7d"
+    },
+    {
+      "$oid": "66ddeff87745820def48ae4a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-09-08T18:44:28.852Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:44:28.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ddf1fbf1dd528dc39b3b86"
+  },
+  "name": "123s-ssssss",
+  "groupChat": false,
+  "members": [
+    {
+      "$oid": "66dde8ed24da5456a2cd6e7d"
+    },
+    {
+      "$oid": "66ddf1c7f1dd528dc39b3b67"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-09-08T18:50:35.582Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:50:35.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e6f8be2749353261d3db1a"
+  },
+  "name": "123-123s",
+  "groupChat": false,
+  "members": [
+    {
+      "$oid": "66e6f8592749353261d3dad6"
+    },
+    {
+      "$oid": "66dde8ed24da5456a2cd6e7d"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-09-15T15:09:50.102Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-15T15:09:50.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e93fe3e643767385590c75"
+  },
+  "name": "SSSS-SSSS",
+  "groupChat": false,
+  "members": [
+    {
+      "$oid": "66dde7e024da5456a2cd6e37"
+    },
+    {
+      "$oid": "66dde7e024da5456a2cd6e37"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-09-08T18:08:45.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:08:45.507Z"
+  },
+  "__v": 0
+}]

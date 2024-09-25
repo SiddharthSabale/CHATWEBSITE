@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "66dde7e024da5456a2cd6e37"
+  },
+  "name": "SSSS",
+  "bio": "SSSS",
+  "username": "fdfhgjshg",
+  "password": "$2b$10$Wl5OjF3hQHNW94ihDfK1eujQVwoSYSs1cq6/1tOO5yEfxZ8ynwstO",
+  "avatar": {
+    "public_id": "177615a4-9669-4760-8666-04c245398746",
+    "url": "https://res.cloudinary.com/dkyu2jtgt/image/upload/v1725818862/177615a4-9669-4760-8666-04c245398746.jpg"
+  },
+  "createdAt": {
+    "$date": "2024-09-08T18:07:28.739Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:07:28.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66dde86c24da5456a2cd6e5f"
+  },
+  "name": "sidd",
+  "bio": "s",
+  "username": "sidd",
+  "password": "$2b$10$W0UGMFrWjzuP1IzWKHtTfuCqhjHCJakGxJoxYA/Mi/rvxVgaYAjUK",
+  "avatar": {
+    "public_id": "77aefdc8-d9dd-48b2-9544-6d686e186b2b",
+    "url": "https://res.cloudinary.com/dkyu2jtgt/image/upload/v1725819001/77aefdc8-d9dd-48b2-9544-6d686e186b2b.jpg"
+  },
+  "createdAt": {
+    "$date": "2024-09-08T18:09:48.034Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:09:48.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66dde8ed24da5456a2cd6e7d"
+  },
+  "name": "123s",
+  "bio": "ss",
+  "username": "sidd55",
+  "password": "$2b$10$Mvaq/czc0oLlyBaH33abo.nctS9qVxJ5qDQWGeqQMq1JjOamdkU7O",
+  "avatar": {
+    "public_id": "4e2e8ec6-4adc-4ed5-b35f-31c46f8446c4",
+    "url": "https://res.cloudinary.com/dkyu2jtgt/image/upload/v1725819131/4e2e8ec6-4adc-4ed5-b35f-31c46f8446c4.jpg"
+  },
+  "createdAt": {
+    "$date": "2024-09-08T18:11:57.722Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:11:57.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ddede54a47e1c24d05e107"
+  },
+  "name": "difff",
+  "bio": "dfsfjhdf",
+  "username": "fdfhgjshgs",
+  "password": "$2b$10$s4WZc5Uh9JABRbuC37mw2OPUHSNYuU3QhClWvhVez0fUTOKSX1O1W",
+  "avatar": {
+    "public_id": "f13a24d6-2946-47df-8580-bc41ce74b59d",
+    "url": "https://res.cloudinary.com/dkyu2jtgt/image/upload/v1725820403/f13a24d6-2946-47df-8580-bc41ce74b59d.jpg"
+  },
+  "createdAt": {
+    "$date": "2024-09-08T18:33:09.987Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:33:09.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ddeff87745820def48ae4a"
+  },
+  "name": "sssss",
+  "bio": "sssss",
+  "username": "sssss",
+  "password": "$2b$10$MpueekSE/ZNaHVnXzvrQLe1biqDv1eIpcH2QnsS22/OE0glsVPyH6",
+  "avatar": {
+    "public_id": "766117db-e630-4359-b03b-0ff7f5ad33f3",
+    "url": "https://res.cloudinary.com/dkyu2jtgt/image/upload/v1725820934/766117db-e630-4359-b03b-0ff7f5ad33f3.jpg"
+  },
+  "createdAt": {
+    "$date": "2024-09-08T18:42:00.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:42:00.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ddf1c7f1dd528dc39b3b67"
+  },
+  "name": "ssssss",
+  "bio": "ss",
+  "username": "sssssss",
+  "password": "$2b$10$wkPVWvMChjR7izqHkpvAKOZrd3P3qqBpyfeceChRxLWYH6gnfT396",
+  "avatar": {
+    "public_id": "7e140c38-7c9e-45fc-9e0b-0ea13cba8854",
+    "url": "https://res.cloudinary.com/dkyu2jtgt/image/upload/v1725821397/7e140c38-7c9e-45fc-9e0b-0ea13cba8854.jpg"
+  },
+  "createdAt": {
+    "$date": "2024-09-08T18:49:43.496Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-08T18:49:43.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e6f8592749353261d3dad6"
+  },
+  "name": "123",
+  "bio": "1236",
+  "username": "s56",
+  "password": "$2b$10$o2yE2nP.LGzDUuxwTOw18OMqRU4ddobgp.9K6AGRotfY5tQjQzQV.",
+  "avatar": {
+    "public_id": "2fff41a0-06b9-4472-9e09-ee5bd5efc600",
+    "url": "https://res.cloudinary.com/dkyu2jtgt/image/upload/v1726412921/2fff41a0-06b9-4472-9e09-ee5bd5efc600.jpg"
+  },
+  "createdAt": {
+    "$date": "2024-09-15T15:08:09.778Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-15T15:08:09.778Z"
+  },
+  "__v": 0
+}]
